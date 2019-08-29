@@ -17,8 +17,8 @@ The tools required to publish a repo with GitHub Pages is to find through intern
 There are some of the links which helped me a lot to gain knowledge and also help us to learn how to develop the github pages. I would like to share them with you so that it would be easy for you guys to just refer if you are a beginner. 
 1. [Link1](https://daringfireball.net/projects/markdown/syntax)
 1. [Link2](https://git-scm.com/docs/gittutorial)
+1. [Link4](https://guides.github.com/activities/hello-world/)
 1. [Link3](https://www.w3schools.com)
-1. [Link4](https://stackoverflow.com)
 
 ## Contributors
 I am Nikitha Kethireddy and I have come to do Masters of Applied Computer Science at NorthWest Missouri State University for the fall semester. I am uploading my first picture which i took on the first day of the college in United States.
