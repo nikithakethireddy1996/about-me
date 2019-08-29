@@ -23,6 +23,7 @@ There are some of the links which helped me a lot to gain knowledge and also hel
 ## Contributors
 I am Nikitha Kethireddy and I have come to do Masters of Applied Computer Science at NorthWest Missouri State University for the fall semester. I am uploading my first picture which i took on the first day of the college in United States.
 
+![](https://raw.githubusercontent.com/nikithakethireddy1996/about-me/master/IMG_20190815_162414.jpg)
 
 
  
