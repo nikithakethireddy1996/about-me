@@ -5,7 +5,7 @@
 *  [Hosted Page](https://nikithakethireddy1996.github.io/about-me)
 
 ## About
-This repository is like a folder for my current project.It describes about myself.This will be used throughout the class as you develop your own personal website using additional technologies. this is also used for sharing the git tools for which help some of the beginners to develop web applications.
+This repository is like a folder for my current project.It describes about myself.This will be used throughout the class as you develop your own personal website using additional technologies. this is also used for sharing the git tools for which help some of the beginners to develop web applications!.
 
 ## Recommended Tools
 The tools required to publish a repo with GitHub Pages is to find through internet. 
