@@ -1,8 +1,8 @@
 # About-Me.
 
 ## Repository Links
-*  [Source Repository](https://github.com/nikithakethireddy1996/about-me)
-*  [Hosted Page](https://nikithakethireddy1996.github.io/about-me)
++  [Source Repository](https://github.com/nikithakethireddy1996/about-me)
++  [Hosted Page](https://nikithakethireddy1996.github.io/about-me)
 
 ## About
 This repository is like a folder for my current project.It describes about myself.This will be used throughout the class as you develop your own personal website using additional technologies. this is also used for sharing the git tools for which help some of the beginners to develop web applications!.
