@@ -26,6 +26,6 @@ I am Nikitha Kethireddy and I have come to do Masters of Applied Computer Scienc
 ![](https://raw.githubusercontent.com/nikithakethireddy1996/about-me/master/IMG_20190815_162414.jpg)
 
 
- 
+ ![](https://github.com/nikithakethireddy1996/about-me/blob/master/IMG_20190815_162414.jpg)
 
 .
